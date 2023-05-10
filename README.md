@@ -1,2 +1,2 @@
-# -mu-Twitter-sentiment-analysis-
+# Twitter Sentiment analysis for election prediction
 bhavya-surana-final-year-project
