@@ -5,15 +5,7 @@ This script can tell you the sentiments of people regarding to any events happen
 
 # Getting Started :
 
-First of all login from your Twitter account and goto Twitter Apps. Create a new app (How to create twitter app) and goto Keys and access tokens and copy Consumer Key, Consumer Secret, Access Token and Access Token Secret. We will need them later.
-
-
-# Prerequisites
-
-+ Python >= 3.7
-+ pip
-+ Django > = 3.2
-
+First of all login from your Twitter account and goto Twitter Apps. Create a new app (How to create twitter app) and goto Keys and access tokens and copy Consumer Key, Consumer Secret, Access Token and Access Token Secret. 
 
 # Installation:
 
