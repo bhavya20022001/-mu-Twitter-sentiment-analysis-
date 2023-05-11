@@ -7,7 +7,7 @@ This script can tell you the sentiments of people regarding to any events happen
 
 First of all login from your Twitter account and goto Twitter Apps. Create a new app (How to create twitter app) and goto Keys and access tokens and copy Consumer Key, Consumer Secret, Access Token and Access Token Secret. 
 
-# Installation:
+## Installation:
 
 >> python > = 3.7
 >> sudo apt update
@@ -16,6 +16,6 @@ First of all login from your Twitter account and goto Twitter Apps. Create a new
 >> pip install Django
  
 to install the dependencies: 
->> pip install tweepy
->> pip install textblob
->> pip install matplotlib
+# pip install tweepy
+# pip install textblob
+# pip install matplotlib
