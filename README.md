@@ -16,6 +16,6 @@ First of all login from your Twitter account and goto Twitter Apps. Create a new
 >> pip install Django
  
 to install the dependencies: 
-# pip install tweepy
-# pip install textblob
-# pip install matplotlib
+>> pip install tweepy
+>> pip install textblob
+>> pip install matplotlib
